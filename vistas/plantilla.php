@@ -213,7 +213,7 @@
 
 				}else{
 
-					include "paginas/registro.php";
+					include "paginas/inicio.php";
 
 				}
 
